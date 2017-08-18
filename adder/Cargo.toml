@@ -1,0 +1,12 @@
+[package]
+authors = ["cannon <cannon10100@gmail.com>"]
+name = "adder"
+version = "0.1.0"
+
+[dependencies]
+rand = "0.3.16"
+
+[dependencies.add-one]
+path = "add-one"
+
+[workspace]

@@ -1,10 +1,6 @@
 [package]
-name = "greprs"
+name = "multi_server"
 version = "0.1.0"
 authors = ["cannon <cannon10100@gmail.com>"]
 
 [dependencies]
-
-[[bin]]
-doc = false
-name = "greprs"
